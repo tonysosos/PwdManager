@@ -1,0 +1,90 @@
+2017-10-27 15:11:22,637 [12]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"0613H6wi1pc1jz0zGtwi1Abewi13H6wc"}
+2017-10-27 15:11:22,680 [12]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=0613H6wi1pc1jz0zGtwi1Abewi13H6wc&grant_type=authorization_code
+2017-10-27 15:11:22,943 [12]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"Cj9gqNImZuZqAIhxw2RmPQ==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 15:14:45,034 [10]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"081xVM4P0PHgU821T43P0uJR4P0xVM4b"}
+2017-10-27 15:14:45,052 [10]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=081xVM4P0PHgU821T43P0uJR4P0xVM4b&grant_type=authorization_code
+2017-10-27 15:14:45,216 [10]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"BY+BcFoSHtkIfkyIUIyEMw==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 15:15:21,545 [8]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"011oUx0Y1vb9nV0e3p0Y1eOy0Y1oUx0L"}
+2017-10-27 15:15:21,610 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=011oUx0Y1vb9nV0e3p0Y1eOy0Y1oUx0L&grant_type=authorization_code
+2017-10-27 15:15:21,750 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"BY+BcFoSHtkIfkyIUIyEMw==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 15:15:30,087 [10]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"001IDd2H0bu3Tg2AQv4H0I1i2H0IDd27"}
+2017-10-27 15:15:30,105 [10]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=001IDd2H0bu3Tg2AQv4H0I1i2H0IDd27&grant_type=authorization_code
+2017-10-27 15:15:30,200 [10]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"BY+BcFoSHtkIfkyIUIyEMw==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 15:15:56,108 [8]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"081M8A1g0NziQB1FWWZf01sf1g0M8A1F"}
+2017-10-27 15:15:56,124 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=081M8A1g0NziQB1FWWZf01sf1g0M8A1F&grant_type=authorization_code
+2017-10-27 15:15:56,278 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"BY+BcFoSHtkIfkyIUIyEMw==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 15:15:59,867 [10]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"061RmckO1mqT7514lNhO158TjO1Rmcka"}
+2017-10-27 15:15:59,892 [10]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=061RmckO1mqT7514lNhO158TjO1Rmcka&grant_type=authorization_code
+2017-10-27 15:15:59,978 [10]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"BY+BcFoSHtkIfkyIUIyEMw==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 15:17:00,591 [10]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"021hsgHB1jV3ag0OOKGB1uu9HB1hsgHQ"}
+2017-10-27 15:17:00,632 [10]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=021hsgHB1jV3ag0OOKGB1uu9HB1hsgHQ&grant_type=authorization_code
+2017-10-27 15:17:00,835 [10]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"1YbAuBallVly2iBRWStzeg==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 15:17:05,430 [8]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"071vcqJM0IttG62hhrJM0MT6JM0vcqJa"}
+2017-10-27 15:17:05,451 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=071vcqJM0IttG62hhrJM0MT6JM0vcqJa&grant_type=authorization_code
+2017-10-27 15:17:05,609 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"1YbAuBallVly2iBRWStzeg==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 15:17:23,770 [10]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"081KaBlt1nFEOa0jd2lt14aAlt1KaBl4"}
+2017-10-27 15:17:23,796 [10]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=081KaBlt1nFEOa0jd2lt14aAlt1KaBl4&grant_type=authorization_code
+2017-10-27 15:17:23,880 [10]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"1YbAuBallVly2iBRWStzeg==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 15:17:38,269 [8]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"061XShT61CUP5R1YbMP611G9T61XShTJ"}
+2017-10-27 15:17:38,312 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=061XShT61CUP5R1YbMP611G9T61XShTJ&grant_type=authorization_code
+2017-10-27 15:17:38,457 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"1YbAuBallVly2iBRWStzeg==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 15:17:52,032 [8]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"0815KIWG0egmWg2HVuYG0i6JWG05KIWa"}
+2017-10-27 15:17:52,044 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=0815KIWG0egmWg2HVuYG0i6JWG05KIWa&grant_type=authorization_code
+2017-10-27 15:17:52,119 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"1YbAuBallVly2iBRWStzeg==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 15:17:54,432 [8]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"011ZN07u0TXiBe1zfU6u0LJN6u0ZN07T"}
+2017-10-27 15:17:54,446 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=011ZN07u0TXiBe1zfU6u0LJN6u0ZN07T&grant_type=authorization_code
+2017-10-27 15:17:54,543 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"1YbAuBallVly2iBRWStzeg==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 15:19:55,197 [8]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"081WUNBU0CzvgU1W5rAU0SIHBU0WUNBQ"}
+2017-10-27 15:19:55,226 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=081WUNBU0CzvgU1W5rAU0SIHBU0WUNBQ&grant_type=authorization_code
+2017-10-27 15:19:55,453 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"1CcxngW23GpxFw5yfr2Dzg==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 15:22:50,751 [18]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"011P4GGd0vn4Dz1ijEFd07qLGd0P4GGh"}
+2017-10-27 15:22:50,767 [18]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=011P4GGd0vn4Dz1ijEFd07qLGd0P4GGh&grant_type=authorization_code
+2017-10-27 15:22:51,186 [18]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"mF6GA7EB2pWuaiXa0XxoIg==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 15:22:59,224 [10]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"0016rO690QrZ3v1kG1990l7F6906rO6B"}
+2017-10-27 15:22:59,280 [10]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=0016rO690QrZ3v1kG1990l7F6906rO6B&grant_type=authorization_code
+2017-10-27 15:22:59,386 [10]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"mF6GA7EB2pWuaiXa0XxoIg==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 15:23:22,235 [10]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"061YDcRL1ZJDW21upQTL1Ws4RL1YDcR5"}
+2017-10-27 15:23:22,249 [10]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=061YDcRL1ZJDW21upQTL1Ws4RL1YDcR5&grant_type=authorization_code
+2017-10-27 15:23:22,426 [10]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"mF6GA7EB2pWuaiXa0XxoIg==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 15:23:27,718 [19]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"06139JiQ0CEn7c2OYjjQ0QCKiQ039Jiz"}
+2017-10-27 15:23:27,743 [19]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=06139JiQ0CEn7c2OYjjQ0QCKiQ039Jiz&grant_type=authorization_code
+2017-10-27 15:23:27,836 [19]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"mF6GA7EB2pWuaiXa0XxoIg==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 16:44:07,444 [7]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"061ohUdg0wxfBB10DEbg0bG7eg0ohUdU"}
+2017-10-27 16:44:07,477 [7]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=061ohUdg0wxfBB10DEbg0bG7eg0ohUdU&grant_type=authorization_code
+2017-10-27 16:44:07,810 [7]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"xpZ\/7FP6JoWooBt1iyvcUw==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 16:48:26,315 [8]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"0114Y8IE01OIHe2iq3GE0E8bIE04Y8I-"}
+2017-10-27 16:48:26,356 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=0114Y8IE01OIHe2iq3GE0E8bIE04Y8I-&grant_type=authorization_code
+2017-10-27 16:48:26,683 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"qWnhBezFWh1q6HlVWSPgDA==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 16:48:42,659 [10]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"021sJcZQ0Xzgvb24uRZQ0IsYYQ0sJcZP"}
+2017-10-27 16:48:46,961 [10]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=021sJcZQ0Xzgvb24uRZQ0IsYYQ0sJcZP&grant_type=authorization_code
+2017-10-27 16:48:50,915 [10]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"qWnhBezFWh1q6HlVWSPgDA==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 16:49:31,739 [5]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"081Trdnv1KPxpd0plYlv1HHrnv1TrdnL"}
+2017-10-27 16:49:35,562 [5]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=081Trdnv1KPxpd0plYlv1HHrnv1TrdnL&grant_type=authorization_code
+2017-10-27 16:49:38,900 [5]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"qWnhBezFWh1q6HlVWSPgDA==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 16:51:03,999 [8]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"061tZWtE0zPITe2EkntE02tStE0tZWtL"}
+2017-10-27 16:51:04,011 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=061tZWtE0zPITe2EkntE02tStE0tZWtL&grant_type=authorization_code
+2017-10-27 16:51:11,973 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"NJRd0y+58g7XhE960Sa1Aw==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 16:55:12,223 [6]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"071mjl4T1f0Hq91RP52T1Xcn4T1mjl4o"}
+2017-10-27 16:55:12,267 [6]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=071mjl4T1f0Hq91RP52T1Xcn4T1mjl4o&grant_type=authorization_code
+2017-10-27 16:55:12,721 [6]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"51Cer+Usc02K6OdSADYgSw==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-10-27 16:55:19,717 [6]DEBUG System.Reflection.RuntimeConstructorInfo - UserInfoDAO.GetUserInfoByOpenId Enter. OpenID: osfsR0bUyng7j9WHRU6f903Goe38
+2017-11-02 10:12:42,364 [8]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"001jRDFE1eML440I7kDE1RAmFE1jRDFe"}
+2017-11-02 10:12:42,436 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=001jRDFE1eML440I7kDE1RAmFE1jRDFe&grant_type=authorization_code
+2017-11-02 10:12:42,751 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"FkeH4iYy9JLjqXq+ZwGVJA==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-11-02 10:12:45,288 [8]DEBUG System.Reflection.RuntimeConstructorInfo - UserInfoDAO.GetUserInfoByOpenId Enter. OpenID: osfsR0bUyng7j9WHRU6f903Goe38
+2017-11-02 10:13:26,289 [8]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"081WH5fQ1raFH717uObQ1GmcfQ1WH5fl"}
+2017-11-02 10:13:26,353 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=081WH5fQ1raFH717uObQ1GmcfQ1WH5fl&grant_type=authorization_code
+2017-11-02 10:13:26,665 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"FkeH4iYy9JLjqXq+ZwGVJA==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-11-02 10:13:26,711 [8]DEBUG System.Reflection.RuntimeConstructorInfo - UserInfoDAO.GetUserInfoByOpenId Enter. OpenID: osfsR0bUyng7j9WHRU6f903Goe38
+2017-11-02 10:14:47,093 [8]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"081dpDkO0zu7C92itdnO0LcGkO0dpDk9"}
+2017-11-02 10:14:47,105 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=081dpDkO0zu7C92itdnO0LcGkO0dpDk9&grant_type=authorization_code
+2017-11-02 10:14:47,318 [8]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"RvnCKpD1kV7uZHZucc1QLA==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-11-02 10:14:47,330 [8]DEBUG System.Reflection.RuntimeConstructorInfo - UserInfoDAO.GetUserInfoByOpenId Enter. OpenID: osfsR0bUyng7j9WHRU6f903Goe38
+2017-11-02 10:20:52,854 [17]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"0119IQkh1XGlXv0mQnjh1R5Mkh19IQkz"}
+2017-11-02 10:20:52,870 [17]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=0119IQkh1XGlXv0mQnjh1R5Mkh19IQkz&grant_type=authorization_code
+2017-11-02 10:20:53,273 [17]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"P9xNqq7wIzWPRxWtvvZ3Ug==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-11-02 10:20:53,416 [17]DEBUG System.Reflection.RuntimeConstructorInfo - UserInfoDAO.GetUserInfoByOpenId Enter. OpenID: osfsR0bUyng7j9WHRU6f903Goe38
+2017-11-02 10:21:33,261 [19]DEBUG System.Reflection.RuntimeConstructorInfo - User-GetOpenId Enter: {"code":"081vV1992nmQNO0WR8a92U78992vV19E"}
+2017-11-02 10:21:33,290 [19]DEBUG System.Reflection.RuntimeConstructorInfo - 请求URL为: https://api.weixin.qq.com/sns/jscode2session?appid=wxfcf6e7d179a63898&secret=114b6c8ccc7ce3177b239ff4db8a91bd&js_code=081vV1992nmQNO0WR8a92U78992vV19E&grant_type=authorization_code
+2017-11-02 10:21:33,432 [19]DEBUG System.Reflection.RuntimeConstructorInfo - 腾讯响应结果：{"session_key":"P9xNqq7wIzWPRxWtvvZ3Ug==","expires_in":7200,"openid":"osfsR0bUyng7j9WHRU6f903Goe38"}
+2017-11-02 10:21:33,441 [19]DEBUG System.Reflection.RuntimeConstructorInfo - UserInfoDAO.GetUserInfoByOpenId Enter. OpenID: osfsR0bUyng7j9WHRU6f903Goe38

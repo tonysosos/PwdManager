@@ -1,0 +1,10 @@
+C:\Users\tonys\source\repos\PwdManager\PwdManager.DAO\bin\Debug\PwdManager.DAO.dll
+C:\Users\tonys\source\repos\PwdManager\PwdManager.DAO\bin\Debug\PwdManager.DAO.pdb
+C:\Users\tonys\source\repos\PwdManager\PwdManager.DAO\bin\Debug\log4net.dll
+C:\Users\tonys\source\repos\PwdManager\PwdManager.DAO\bin\Debug\MySql.Data.dll
+C:\Users\tonys\source\repos\PwdManager\PwdManager.DAO\bin\Debug\log4net.xml
+C:\Users\tonys\source\repos\PwdManager\PwdManager.DAO\bin\Debug\MySql.Data.xml
+C:\Users\tonys\source\repos\PwdManager\PwdManager.DAO\obj\Debug\PwdManager.DAO.csprojResolveAssemblyReference.cache
+C:\Users\tonys\source\repos\PwdManager\PwdManager.DAO\obj\Debug\PwdManager.DAO.csproj.CoreCompileInputs.cache
+C:\Users\tonys\source\repos\PwdManager\PwdManager.DAO\obj\Debug\PwdManager.DAO.dll
+C:\Users\tonys\source\repos\PwdManager\PwdManager.DAO\obj\Debug\PwdManager.DAO.pdb
